@@ -90,8 +90,7 @@ Email: Govind26663355@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI:
-     naming to 
+    - Save the URI: 
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
