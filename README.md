@@ -90,7 +90,8 @@ Email: Govind26663355@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 011528263568.dkr.ecr.us-east-1.amazonaws.com/text-summerization
+    - Save the URI:
+     naming to 
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -128,4 +129,4 @@ Email: Govind26663355@gmail.com
 
     AWS_ECR_LOGIN_URI = demo>>  
 
-    ECR_REPOSITORY_NAME = text-summarization
+    ECR_REPOSITORY_NAME = text-summerization
